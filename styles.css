@@ -2,6 +2,7 @@ h1 {
     color: grey;
     font-family: "Brush Script MT", cursive;
     text-align: center;
+    font-size: 100px;
 }
 
 body {
@@ -14,5 +15,17 @@ h2 {
 
 div {
     text-align: center;
-    height: 500px;
+    height: 100px;
+}
+
+img {
+    height: auto;
+    width: 100px;
+    text-align: center;
+}
+
+a {
+    font-size: larger;
+    text-decoration: none;
+    
 }
