@@ -19,14 +19,15 @@ div {
 }
 
 img#thumbnail{
-    height: auto;
-    width: 100px;
+    height: 90px;
+    width: auto;
     text-align: center;
 }
 
 a {
     font-size: larger;
     text-decoration: none;
+    font-family: Verdana, sans-serif;
     
 }
 
